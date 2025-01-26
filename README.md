@@ -21,5 +21,6 @@ To run this project, you need to install the following Python libraries:
 - `ta-lib` (optional): For technical analysis and stock indicators.
 
 You can install all dependencies by using the following command:
-
+```bash
+pip install -r requirements.txt
 copy this before runing  "pip install yfinance scikit-learn numpy pandas matplotlib"
