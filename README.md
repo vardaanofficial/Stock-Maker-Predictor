@@ -22,4 +22,4 @@ To run this project, you need to install the following Python libraries:
 
 You can install all dependencies by using the following command:
 
-pip install yfinance scikit-learn numpy pandas matplotlib
+copy this before runing  "pip install yfinance scikit-learn numpy pandas matplotlib"
